@@ -1,3 +1,3 @@
-  name: Abaz
-  markdown: kramdown
+name: Abaz
+markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
